@@ -52,7 +52,7 @@ const Header = ({ activeTab, onTabChange, onToggleSidebar }) => {
               <p style={styles.userRole}>Lead Researcher</p>
             </div>
             <div style={styles.userAvatar}>
-              <div style={styles.avatarPlaceholder}>SC</div>
+              <div style={styles.avatarPlaceholder}>MB</div>
             </div>
           </div>
         </div>
