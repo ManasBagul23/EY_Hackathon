@@ -48,7 +48,7 @@ const Header = ({ activeTab, onTabChange, onToggleSidebar }) => {
           
           <div style={styles.userProfile}>
             <div style={styles.userInfo}>
-              <p style={styles.userName}>Dr. Sarah Chen</p>
+              <p style={styles.userName}>Dr. Manas Bagul</p>
               <p style={styles.userRole}>Lead Researcher</p>
             </div>
             <div style={styles.userAvatar}>
